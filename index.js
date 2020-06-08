@@ -33,5 +33,5 @@ const Calculator = {
 }
 
 function actionApplyer(start, array){
-  
+  start = 0
 }
